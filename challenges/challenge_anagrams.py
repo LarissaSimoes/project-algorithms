@@ -49,5 +49,3 @@ def is_anagram(first_string, second_string):
     second_count = char_count(second_sorted)
 
     return first_sorted, second_sorted, first_count == second_count
-
-
